@@ -12,6 +12,7 @@ Currently, I’m honing my skills in the field of AI while building on my founda
 - Technologies: AI, Machine Learning, Web Development
 
 🌱 What I'm Up To
+
 I’m currently focused on developing projects in AI and Java. 
 I enjoy reading articles to stay updated with tech trends and further my knowledge in areas that fascinate me.
 
@@ -21,5 +22,3 @@ Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/inshamehreen/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/inshamehreen)
 
-⚡ Fun Fact!
-I’m always on the lookout for interesting tech articles and enjoy diving deep into various topics!
