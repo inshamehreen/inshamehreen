@@ -18,6 +18,7 @@ I enjoy reading articles to stay updated with tech trends and further my knowled
 
 Connect with Me 🌐
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mohammed.inshamehreen@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/insha-mehreen-246a0327a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/insha-mehreen-246a0327a/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/inshamehreen)
+
 
